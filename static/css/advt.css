@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.navbar{
+    background: yellow;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.navbar a{
+    color: blue;
+}
+
+.navbar li a{
+    color: red;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+    margin: 25px;
+    border: 5px solid red;
+}
+
+.logo{
+    height: 25px;
+    width:30px;
+    margin: 0;
+    border: none;
+    text-align:left;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+button{
+    border: 2px solid red;
+    color: #fff;
+    background-color: green;
+}
+
+ul{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+li{
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+}
